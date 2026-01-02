@@ -1,0 +1,1 @@
+print("Veda Vanshika + Entry Course")
